@@ -1,4 +1,4 @@
-![José Clemente - Arquitecto de Software](https://raw.githubusercontent.com/JoseClementeDev/JoseClementeDev/main/profile-banner.png)
+![José Clemente - Arquitecto de Software](https://github.com/jclementedev/jclementedev/blob/main/profile-banner.png)
 
 # José Clemente
 
